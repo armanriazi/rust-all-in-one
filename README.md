@@ -8,6 +8,14 @@
 
 > I made a customize online book that contains md-files and you can search for any gathered concept. I was wondering if you would like it please contact me. To gain access **online book + code has the value of 200$**. 
 
+## At a glance 
+
+![rust-all-in-one-1](https://github.com/armanriazi/rust-all-in-one/blob/main/rust-all-in-one.JPG)
+>
+![rust-all-in-one-1](https://github.com/armanriazi/rust-all-in-one/blob/main/rust-all-in-one-2.JPG)
+>
+![rust-all-in-one-1](https://github.com/armanriazi/rust-all-in-one/blob/main/rust-all-in-one-3.JPG)
+
 ## Topics
 
 •	Intro RUST
