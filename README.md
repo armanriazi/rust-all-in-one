@@ -10,7 +10,6 @@
 
 ## Topics
 
-Summary
 •	Intro RUST
 
 •	TEMPLATE
@@ -24,13 +23,13 @@ o	SEMANTIC
 
 o	LIFETIME
 
-  	STATIC
+>  	STATIC
   
-  	ELISION
+>  	ELISION
   
-  	DANGLING
+>  	DANGLING
   
-  	GENERIC
+>  	GENERIC
 ________________________________________
 •	BENCHMARK
 ________________________________________
