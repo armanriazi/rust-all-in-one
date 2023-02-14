@@ -12,15 +12,24 @@
 
 Summary
 •	Intro RUST
+
 •	TEMPLATE
+
 •	SHARED
 ________________________________________
+
 •	BORROWCHECKER
+
 o	SEMANTIC
+
 o	LIFETIME
+
   	STATIC
+  
   	ELISION
+  
   	DANGLING
+  
   	GENERIC
 ________________________________________
 •	BENCHMARK
