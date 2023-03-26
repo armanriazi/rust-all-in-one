@@ -6,7 +6,7 @@
 
 > All of the practices  are modular and you can run it dependently.
 
-> I made a customize online book that contains md-files and you can search for any gathered concept. I was wondering if you would like it please contact me. To gain access **online book + code has the value of 200$**. 
+> I made a customize online book that contains md-files and you can search for any gathered concept. I was wondering if you would like it please contact me. To gain access **online book + code has the value of X$**, please call me or becoming a sponsership. 
 
 ## At a glance 
 
