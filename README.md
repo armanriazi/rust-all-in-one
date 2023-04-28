@@ -10,6 +10,9 @@
 
 ## At a glance 
 
+
+![LOC](https://github.com/armanriazi/rust-all-in-one/blob/main/rust-all-in-one-code.JPG)
+>
 ![rust-all-in-one-1](https://github.com/armanriazi/rust-all-in-one/blob/main/rust-all-in-one.JPG)
 >
 ![rust-all-in-one-1](https://github.com/armanriazi/rust-all-in-one/blob/main/rust-all-in-one-2.JPG)
