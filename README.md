@@ -11,7 +11,7 @@
 ## At a glance 
 
 
-![LOC](https://github.com/armanriazi/rust-all-in-one/blob/main/rust-all-in-one-code.JPG)
+![LOC](https://github.com/armanriazi/rust-all-in-one/blob/main/LOC.JPG)
 >
 ![rust-all-in-one-1](https://github.com/armanriazi/rust-all-in-one/blob/main/rust-all-in-one.JPG)
 >
