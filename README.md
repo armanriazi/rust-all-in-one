@@ -1,12 +1,15 @@
 # Rust-all-in-one
 
-> The best practices for learning - To Become a Rust professional.
+•	The best practices for learning - To Become a Rust professional.
 
-> This repository has got more than 400 samples that collected more than 6 significant reference(Books, Internet). 
+•	This repository has got more than 400 samples that collected more than 7 significant references (Books, Internet). 
 
-> All of the practices  are modular and you can run it dependently.
+•	All of the practices  are modular and you can run it dependently.
 
-> I made a customize online book that contains md-files and you can search for any gathered concept. I was wondering if you would like it please contact me. To gain access **online book + code has the value of X$**, please call me or becoming a sponsership. 
+•	I made a customized online book that contains md-files and you can search for any gathered concept. I was wondering if you would like it please contact me. To gain access **online book + code has the value of 49$**, please call me or become a sponsor. 
+
+## Author
+•	Collaborated with OrangeAVA as a technical editor to publish the Mastering Rust for System Programming book.
 
 ## At a glance 
 
