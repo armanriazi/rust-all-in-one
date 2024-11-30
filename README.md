@@ -12,6 +12,7 @@ I have collaborated with OrangeAVA as a technical editor to publish "Mastering R
 
 ## At a glance 
 
+Updated Images: 02/2023
 
 ![LOC](https://github.com/armanriazi/rust-all-in-one/blob/main/LOC.JPG)
 >
